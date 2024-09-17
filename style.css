@@ -1,0 +1,15 @@
+*{
+    color: rgb(90, 82, 82);
+}
+.container{
+    width: 10000px;
+    margin: 0 auto;
+    background-color: #2e2c30;
+}
+h1{color: aqua;
+
+}.myyellow{
+    color: yellow;
+}.myred{
+    color: red;
+}
